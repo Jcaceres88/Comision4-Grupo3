@@ -28,9 +28,8 @@ _ Las herramientas utilizadas para desarrollar el proyecto son las siguientes: _
 * **Marcos Sanchez** - *Documentación* - [MarkSanch](https://github.com/MarkSanch/Comision4_Grupo3)
 * **Gladys Hardy** - *Diagram.MER y Tablas* - [GLADYSHARDY](https://github.com/GLADYSHARDY)
 * ** Rodrigo Gomez** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Jonathan Caceres** - *Documentación* - [Jcaceres88](https://github.com/Jcaceres88)
 
-* **fulanito** - * tarea realizada* - [fulanitodetal](https://github.com/fulanito-de-tal)
-* ** fulanito ** - *tarea realizada* - [fulanitodetal](https://github.com/fulanito-de-tal)
 
  
 
